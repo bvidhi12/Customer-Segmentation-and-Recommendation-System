@@ -76,38 +76,6 @@ This project explores customer segmentation and recommendation system developmen
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/online-retail-customer-segmentation.git
-   cd online-retail-customer-segmentation
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the main notebook or script:
-
-   ```bash
-   jupyter notebook Customer_Segmentation_and_Recommendation.ipynb
-   ```
-
----
-
-## 🧠 Future Enhancements
-
-* Use more sophisticated clustering algorithms (e.g., DBSCAN, hierarchical clustering).
-* Incorporate time-based patterns for seasonality-aware recommendations.
-* Improve recommendation system with collaborative filtering or hybrid methods.
-* Deploy the model as an interactive dashboard or web application.
-
----
-
 ## 📬 Contact
 
 For questions, collaborations, or feedback, feel free to connect:
